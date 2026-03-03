@@ -1,3 +1,0 @@
-src/c/init_cplbs.doj: ../src/c/init_cplbs.c
-src/c/init_cplbs.doj: ../src/include/init_cplbs.h
-src/c/init_cplbs.doj: ../src/include/init_platform.h
